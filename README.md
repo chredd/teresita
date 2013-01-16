@@ -1,4 +1,4 @@
 TERESITA
 =============
 
-Amalita Teresita.
+Amalita Teresita..
