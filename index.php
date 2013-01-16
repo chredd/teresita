@@ -24,12 +24,12 @@ $app->get('/', function() use ($app, $config) {
 	
 	$data = array(
 		'config' => $config,
-		'template' => 'home.php'
+		'template' => 'home'
    );	
 	$app->render('layout.php', $data);
 });
 
-$app->get('/page/:template', function ($template = null) use ($app, $config) {
+$app->get('/:template', function ($template = null) use ($app, $config) {
     
     $data = array(
        'config' => $config,

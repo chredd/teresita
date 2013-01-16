@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Bootstrap 101 Template</title>
+    <title><?php echo $config->site_title ?></title>
     <!-- Bootstrap -->
     <link href="<?php echo $config->base_directory ?>/assets/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
     <link href="<?php echo $config->base_directory ?>/assets/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
