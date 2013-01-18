@@ -1,1 +1,6 @@
-THIS IS HOME!
+
+<?php 
+
+print_r( Rebus::renderRebus('json/rebus.json') );	
+
+ ?>

@@ -10,7 +10,6 @@
   <body>
     <div class="container-fluid" id="main">
       <div class="row-fluid">
-        <div class="span8">
           <!--Body content-->
           <h1>Hello there!</h1>
           <?php 
@@ -18,7 +17,6 @@
             include $template . '.php'; 
             }
           ?>
-        </div>
       </div>
     </div>
     <script src="http://code.jquery.com/jquery-latest.js"></script>

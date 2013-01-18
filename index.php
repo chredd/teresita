@@ -6,6 +6,8 @@ require 'Slim/Slim.php';
 # Create app
 $app = new \Slim\Slim();
 
+require 'lib/rebus.php';
+
 # Config
 $app->config(array(
    'templates.path' => './templates'
