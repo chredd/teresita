@@ -47,7 +47,7 @@
     "huvud":{
         "word": "huvud",
         "image": "http://us.123rf.com/400wm/400/400/nikolae/nikolae1210/nikolae121000024/15817019-silhouette-of-a-head-isolated.jpg",
-        "text": "+"
+        "text": ""
     },  
     "stad":{
         "word": "stad",
@@ -62,17 +62,77 @@
     "kula":{
         "word": "kula",
         "image": "http://preview.turbosquid.com/Preview/2011/02/02__15_08_20/Bullet_2.jpgf7df095b-1831-4e6d-94cc-e7aae50cf53fLarge.jpg",
-        "text": "-a +"
+        "text": "-a "
     },  
     "bin":{
         "word": "bin",
         "image": "http://cache.io9.com/assets/images/8/2010/09/bees_honey.jpg",
         "text": "-b"
-    },	
+    },  
     "plusa":{
         "word": "+a+",
         "image": "",
         "text": "+ a +"
+    },  
+    "risk":{
+        "word": "risk",
+        "image": "http://www.boardgamebeast.com/images/risk-board-game-strategies-21294771.jpg",
+        "text": ""
+    },  
+    "tupp":{
+        "word": "tupp",
+        "image": "http://www.kjempebulls.se/gardens_tupp_b.jpg",
+        "text": "-t"
+    },  
+    "lever":{
+        "word": "lever",
+        "image": "http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/image_article_collections/anatomy_pages/liver_illustration.jpg",
+        "text": "-er"
+    },  
+    "lever":{
+        "word": "lever",
+        "image": "http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/image_article_collections/anatomy_pages/liver_illustration.jpg",
+        "text": "-er"
+    },  
+    "el":{
+        "word": "el",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/High_voltage_warning.svg/220px-High_voltage_warning.svg.png",
+        "text": ""
+    },  
+    "segel":{
+        "word": "el",
+        "image": "http://3.bp.blogspot.com/-qB1FScnjpxo/T1QUHm005EI/AAAAAAAAAr0/bCWH36L2pYY/s1600/Sails.jpg",
+        "text": "-"
+    },  
+    "gel":{
+        "word": "gel",
+        "image": "http://www.photo-dictionary.com/photofiles/list/1906/2505gel.jpg",
+        "text": ""
+    },  
+    "spar":{
+        "word": "spår",
+        "image": "http://cdn2.arkive.org/media/E0/E0E133D3-D384-44D2-A562-F96E87585FFC/Presentation.Large/African-lion-tracks-in-sand.jpg",
+        "text": "-s,r"
+    },  
+    "vitlok":{
+        "word": "vitlök",
+        "image": "http://paleonick.com/custom/store/garlic%202.jpg",
+        "text": "+s"
+    },  
+    "doft":{
+        "word": "doft",
+        "image": "http://www.astmaoallergiforbundet.se/graphics/astma_allergi/doft.gif",
+        "text": ""
+    },  
+    "ande":{
+        "word": "ande",
+        "image": "http://www.tacksomfan.se/wp-content/uploads/anden1.gif",
+        "text": ""
+    },	
+    "krog":{
+        "word": "krog",
+        "image": "http://www.livestage.se/files/krogen-krogen-e1302953629145.jpg",
+        "text": ""
     }
 
 }
