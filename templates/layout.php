@@ -27,7 +27,7 @@
             <?php print_r( Rebus::renderRebus('json/simple.json') );  ?>
           </div>
 
-          <p>Väldigt lätt va? Rätt svar var alltså: <strong>Jag Älskar Dig!</strong></p>
+          <p>Väldigt lätt va? Rätt svar var alltså: <strong>Christoffer Älskar Teresita!</strong></p>
           <p>Detta var dock så klart inte den riktiga utmaning. Den kommer istället här!<br>
             Om problem uppstår för du givetvis kontakta supporten på 070-370 69 29 (29,90:- per minut).</p>
 
