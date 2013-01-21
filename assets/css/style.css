@@ -1,5 +1,30 @@
 
 #main{
-	max-width: 800px;
+	max-width: 90%;
 	margin: 20px auto;
+}
+
+.row-fluid{
+	padding: 20px 0;
+}
+
+.item{
+	background: none;
+	height: 200px;
+	font-size: 40px;
+	vertical-align: middle;
+	font-family: "Comic Sans ms";
+	text-align: center;
+}
+
+
+.item img{
+	max-width: 70%;
+	max-height: 150px;
+	vertical-align: middle;
+}
+
+.item .text{
+	width: 30%;
+	background: none;
 }

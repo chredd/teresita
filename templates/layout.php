@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <title><?php echo $config->site_title ?></title>
     <!-- Bootstrap -->
     <link href="<?php echo $config->base_directory ?>/assets/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
@@ -16,7 +17,10 @@
           if(isset($template) && file_exists( realpath(".") . '/' . $config->templates_path . '/' . $template .'.php' )){
             include $template . '.php'; 
             }
-          ?>
+          ?>            
+          </div>
+
+          
       </div>
     </div>
     <script src="http://code.jquery.com/jquery-latest.js"></script>

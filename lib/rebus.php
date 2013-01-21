@@ -29,22 +29,25 @@ class Rebus extends stdClass
 
 		$count = 0;
 
+		echo '<div class="row-fluid">';
+
 		foreach ($data as $word => $node) {
 			# code..
-
-			//echo ($count %3);
-
 			?>
-			
-
 			<div class="span3 item">
-				<img class="image" src="<?php echo $node->image ?>" alt="">
-				<span class="text"><?php echo $node->text ?></span>
+					<img class="image" src="<?php echo $node->image ?>" alt="">
+					<?php if( $node->text ): ?>
+					<span class="text"><?php echo $node->text ?></span>
+					<?php endif; ?>
 			</div>
 			
 			<?php
-			
+
+			$count++;
+			if($count%4 == 0) echo '</div><div class="row-fluid">';
 		}
+
+		echo '</div>';
 	}
 
 } // END class Rebus extends stdClass

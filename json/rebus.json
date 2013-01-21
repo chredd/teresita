@@ -1,23 +1,78 @@
 {
     "en":{
         "word": "en",
-        "image": "http://www.vk.se/wp-content/uploads/2013/01/sp3fe466-790x444.jpg?1358515233",
-        "text": "-D"
-    }, 
-    "resa":{
-        "word": "en",
-        "image": "http://www.vk.se/wp-content/uploads/2013/01/ScreenShot0093-480x235.jpg?1358514200",
+        "image": "http://www.trivia.se/bilder/questions/34340-20080512190503.jpg",
         "text": ""
+    }, 
+    "are":{
+        "word": "åre",
+        "image": "http://4.bp.blogspot.com/-BCUjVjyPvA8/Tv3oT_M8ZbI/AAAAAAAAO4E/sCFKnKipDAU/s1600/16n.JPG",
+        "text": "-å"
     },
-	"till":{
+	"usa":{
+        "word": "usa",
+        "image": "http://www.irishtimes.com/blogs/generationemigration/files/2012/07/USA1.png",
+        "text": "-u"
+    },
+    "kungliga":{
         "word": "en",
         "image": "http://www.vk.se/wp-content/uploads/2013/01/ScreenShot0053-480x219.jpg",
-        "text": "+A"
-    },
-	"kungliga":{
-        "word": "en",
-        "image": "http://www.vk.se/wp-content/uploads/2013/01/ScreenShot0053-480x219.jpg",
-        "text": "+A"
+        "text": "+a"
+    },  
+    "v":{
+        "word": "v",
+        "image": "http://revoltoftheplebs.files.wordpress.com/2011/01/v-vendetta-wallpapers1.jpg",
+        "text": "+"
+    },  
+    "tar":{
+        "word": "tår",
+        "image": "http://rosiepiter.com/clipart_illustrations/eye_shedding_a_tear_0071-0911-1622-2051_SMU.jpg",
+        "text": "-t"
+    },  
+    "kung":{
+        "word": "kung",
+        "image": "http://cattasbubbla.se/wp-content/uploads/2010/11/kungen_103746684.jpg",
+        "text": "+"
+    },  
+    "bjornliga":{
+        "word": "björnliga",
+        "image": "http://r13.imgfast.net/users/1311/27/40/92/album/bjarnl10.gif",
+        "text": "-"
+    },  
+    "bjorn":{
+        "word": "björn",
+        "image": "http://images.nationalgeographic.com/wpf/media-live/photos/000/226/cache/sleepy-grizzly-bear_22670_990x742.jpg",
+        "text": ""
+    },  
+    "huvud":{
+        "word": "huvud",
+        "image": "http://us.123rf.com/400wm/400/400/nikolae/nikolae1210/nikolae121000024/15817019-silhouette-of-a-head-isolated.jpg",
+        "text": "+"
+    },  
+    "stad":{
+        "word": "stad",
+        "image": "http://us.123rf.com/400wm/400/400/soleilc1/soleilc11007/soleilc1100700131/7445879-big-city-skyline-with-tall-skyscrapers.jpg",
+        "text": ""
+    },  
+    "smed":{
+        "word": "smed",
+        "image": "http://jayperoni.com/wp-content/uploads/2010/04/blacksmith.jpg",
+        "text": "-s"
+    },  
+    "kula":{
+        "word": "kula",
+        "image": "http://preview.turbosquid.com/Preview/2011/02/02__15_08_20/Bullet_2.jpgf7df095b-1831-4e6d-94cc-e7aae50cf53fLarge.jpg",
+        "text": "-a +"
+    },  
+    "bin":{
+        "word": "bin",
+        "image": "http://cache.io9.com/assets/images/8/2010/09/bees_honey.jpg",
+        "text": "-b"
+    },	
+    "plusa":{
+        "word": "+a+",
+        "image": "",
+        "text": "+ a +"
     }
 
 }
