@@ -21,7 +21,6 @@ $config = json_decode($config);
 # ROUTES
 
 // GET route for /
-
 $app->get('/', function() use ($app, $config) {
 	
 	$data = array(
@@ -39,8 +38,6 @@ $app->get('/:template', function ($template = null) use ($app, $config) {
    );	
 	$app->render('layout.php', $data);
 });
-
-
 
 # Finally, run app
 $app->run();
