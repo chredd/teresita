@@ -26,6 +26,8 @@ class Rebus extends stdClass
 		$data = json_decode( file_get_contents( $json ) );
 		//print_r($data);
 		//return $data;
+		$last_item = end($data);
+		reset($data);
 
 		$count = 0;
 
@@ -47,7 +49,7 @@ class Rebus extends stdClass
 			<?php
 
 			$count++;
-			if($count%3 == 0) echo '</div><div class="row-fluid">';
+			if($count%3 == 0 && ($last_item->word !== $node->word)) echo '</div><div class="row-fluid">';
 		}
 
 		echo '</div>';
