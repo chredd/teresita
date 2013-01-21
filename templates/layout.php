@@ -7,6 +7,7 @@
     <link href="<?php echo $config->base_directory ?>/assets/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
     <link href="<?php echo $config->base_directory ?>/assets/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
     <link rel="stylesheet" href="<?php echo $config->base_directory ?>/assets/css/style.css" media="screen">
+    <link rel="shortcut icon" href="favicon.ico">
   </head>
   <body>
     <div class="container-fluid" id="main">
