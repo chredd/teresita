@@ -14,10 +14,20 @@
         "image": "http://www.irishtimes.com/blogs/generationemigration/files/2012/07/USA1.png",
         "text": "-u"
     },
-    "kungliga":{
-        "word": "en",
-        "image": "http://www.vk.se/wp-content/uploads/2013/01/ScreenShot0053-480x219.jpg",
-        "text": "+a"
+    "tid":{
+        "word": "tid",
+        "image": "http://www.designhousestockholm.com/collection/flash/Tid1.jpg",
+        "text": "-d"
+    }, 
+    "boll":{
+        "word": "boll",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Generic_football.png/250px-Generic_football.png",
+        "text": "-"
+    }, 
+    "boeriksson":{
+        "word": "bo",
+        "image": "http://i4.ytimg.com/vi/OLbty1xVn8k/mqdefault.jpg",
+        "text": ""
     },  
     "v":{
         "word": "v",

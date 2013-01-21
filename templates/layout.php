@@ -14,7 +14,7 @@
           <!--Body content-->
           <img src="http://sphotos-a.ak.fbcdn.net/hphotos-ak-prn1/68185_472254811628_4464184_n.jpg" class="christerese" alt="Chri <3 Teresita">
           <h1>Hej Amalia Terese!</h1>
-          <p>Vad roligt att du hittade hit. Först och främst ett stort, <strong>STORT grattis på din stora dag!</strong><br>
+          <p>Vad roligt att du hittade hit. Först och främst ett stort, <strong>STORT grattis på din 30-årsdag!</strong><br>
           Jag önskar verkligen att jag kunde ha varit hemma hos dig idag och uppvaktat dig på riktigt.
           Nåväl, det blir inte alltid som man vill. Här kommer ändå en liten present till dig.</p>
 
@@ -26,7 +26,7 @@
             <?php print_r( Rebus::renderRebus('json/simple.json') );  ?>
           </div>
 
-          <p>Väldigt lätt va? Rätt svar var alltså: Jag Älskar Dig!</p>
+          <p>Väldigt lätt va? Rätt svar var alltså: <strong>Jag Älskar Dig!</strong></p>
           <p>Detta var dock så klart inte den riktiga utmaning. Den kommer istället här!<br>
             Om problem uppstår för du givetvis kontakta supporten på 070-370 69 29 (29,90:- per minut).</p>
 
@@ -45,6 +45,7 @@
 
             <p>Hoppas det gick bra att lösa! Om inte är det det bara att försöka igen.</p>
 
+            <h2>Grattis på din dag, Amalita Teresita Johanssonita!</h2>
           </div>
 
       </div>
